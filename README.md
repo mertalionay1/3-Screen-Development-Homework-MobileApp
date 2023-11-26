@@ -3,5 +3,5 @@
 
 Merhaba, @keyvanarasteh hocamızın öğrettiklerinden sonra uygulamaları geliştirme fırsatım oldu. 
 
-github.com/keyvanarasteh ödev görselleri aşağıdadır.
+https://github.com/keyvanarasteh ödev görselleri aşağıdadır.
 
