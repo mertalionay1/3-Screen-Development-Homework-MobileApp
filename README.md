@@ -6,8 +6,6 @@ Merhaba, @keyvanarasteh hocamızın öğrettiklerinden sonra uygulamaları geli�
 https://github.com/keyvanarasteh ödev görselleri aşağıdadır.
 
 
-
-
 <img width="320" alt="ExplorerApp SS" src="https://github.com/mertalionay1/3-Screen-Development-Homework-MobileApp/assets/149300154/f9087925-3f4c-4a9e-be25-8c931309b3e0">
 
 
@@ -15,5 +13,3 @@ https://github.com/keyvanarasteh ödev görselleri aşağıdadır.
 
 
 <img width="425" alt="YouTube SS" src="https://github.com/mertalionay1/3-Screen-Development-Homework-MobileApp/assets/149300154/96202fbe-e5cb-4b7c-939c-04c3f3b32381">
-
-
